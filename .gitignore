@@ -4,4 +4,7 @@ __pycache__/
 venv/
 .venv/
 *.db
-*.sqlite
+*.sqliteBasicBots/ 
+src/ 
+customeragent.ipynb 
+sugarbubble.ipynb
